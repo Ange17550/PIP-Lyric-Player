@@ -1,0 +1,14 @@
+{
+  "name": "Mini Lyrics Player",
+  "description": "Floating PiP lyrics window",
+  "preview": "screenshot.png",
+  "main": "lyrics.js",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Angebzz",
+      "url": "https://github.com/Ange17550"
+    }
+  ],
+  "tags": ["lyrics", "player"]
+}
